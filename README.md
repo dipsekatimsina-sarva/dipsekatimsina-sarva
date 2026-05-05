@@ -1,26 +1,24 @@
 <div align="center">
 
+<img src="assets/dipseka_final.gif" width="320"/>
+
+<br>
+
+*noise analyst by day, founder by night*
+
 <br>
 
 # Dipseka Timsina
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1500&color=D2691E&center=true&vCenter=true&width=600&lines=noise+analyst+by+day%2C+founder+by+night;best+ideas+live+at+unexpected+intersections;built+things+in+forests%2C+oceans%2C+and+spreadsheets" alt="Typing SVG" />
-
-<br>
-
-`Pennsylvania` &nbsp;·&nbsp; `Bhutanese-Nepali` &nbsp;·&nbsp; `Vegan` &nbsp;·&nbsp; `Advanced SCUBA Certified`
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1500&color=D2691E&center=true&vCenter=true&width=600&lines=best+ideas+live+at+unexpected+intersections;built+things+in+forests%2C+oceans%2C+and+spreadsheets;researcher%2C+founder%2C+perpetually+curious" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<br>
-
 I'm not a CS major. I'm an environmental scientist who got curious about everything else. I've done night SCUBA dives to film octopuses, modeled wildfires in Montana, analyzed forests with R, and now I'm building software for communities that mainstream tech left behind.
 
 I use GitHub to document the work, not perform it.
-
-<br>
 
 ---
 
@@ -30,11 +28,9 @@ I use GitHub to document the work, not perform it.
 <tr>
 <td width="50%" valign="top">
 
-**Sarva**
+**[Sarva](https://github.com/dipsekatimsina-sarva)**
 
 AI platform for immigrant-owned ethnic grocery stores. Voice-first, multilingual, built for the communities mainstream tech left behind.
-
-[sarva](https://github.com/dipsekatimsina-sarva)
 
 </td>
 <td width="50%" valign="top">
@@ -91,8 +87,6 @@ Earth science data analysis during a global pandemic.
 
 ---
 
-### languages and tools
-
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipsekatimsina-sarva&layout=compact&theme=gruvbox&hide_border=true&title_color=D2691E&text_color=FFF8DC&bg_color=2d2417&langs_count=6)
@@ -110,7 +104,5 @@ Earth science data analysis during a global pandemic.
 <br>
 
 *building things that matter, one unexpected intersection at a time.*
-
-<br>
 
 </div>
