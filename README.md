@@ -1,4 +1,4 @@
-### hey, I'm Dipseka 👋🏽
+### Hi, I'm Dipseka
 
 > *Researcher, founder, and someone who thinks the best ideas live at unexpected intersections.*
 
@@ -8,36 +8,36 @@ My research background is all over the place in the best way: I've modeled wildf
 
 ---
 
-### 🌱 what I'm working on
+### what I'm working on
 
 - Building **Sarva** from the ground up
-- Learning and growing every day as a first-time founder
+- Growing as a first-time founder
 - Figuring out what it looks like to build something that actually matters
 
 ---
 
-### 🔬 research & projects
+### research and projects
 
-| | Project | Tools |
-|---|--------|-------|
-| 🌲 | [Loblolly Pine Biomass -- Spatial Modeling](https://github.com/dipsekatimsina-sarva/loblolly-biomass-spatial) | R, Dirichlet Regression |
-| 🔥 | [Wildfire Spread Model -- Montana](https://github.com/dipsekatimsina-sarva/wildfire-spread-model) | NetLogo |
-| 🐙 | [Octopus Behavior -- Turks & Caicos](https://github.com/dipsekatimsina-sarva/Callistoctopus-furvus-behavior-analysis) | R, field research |
-| 🛸 | [NASA SEES -- Earth Science & Sustainability](https://github.com/dipsekatimsina-sarva/nasa-sees-internship) | Python, NASA datasets |
+| Project | Tools |
+|--------|-------|
+| [Loblolly Pine Biomass -- Spatial Modeling](https://github.com/dipsekatimsina-sarva/loblolly-biomass-spatial) | R, Dirichlet Regression |
+| [Wildfire Spread Model -- Montana](https://github.com/dipsekatimsina-sarva/wildfire-spread-model) | NetLogo |
+| [Octopus Behavior -- Turks & Caicos](https://github.com/dipsekatimsina-sarva/Callistoctopus-furvus-behavior-analysis) | R, field research |
+| [NASA SEES -- Earth Science & Sustainability](https://github.com/dipsekatimsina-sarva/nasa-sees-internship) | Python, NASA datasets |
 
 ---
 
 ### a few things about me
 
-- 🇧🇹 Bhutanese-Nepali, raised on resilience
-- 🌿 Vegan and proud
-- 🤿 Advanced SCUBA certified -- some of my best data came from night dives
-- 🐕 Dog mom
-- 📍 Pennsylvania
+- Bhutanese-Nepali, raised on resilience
+- Vegan and proud
+- Advanced SCUBA certified -- some of my best data came from night dives
+- Dog mom
+- Based in Pennsylvania
 
 ---
 
-### 📬 find me
+### find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipseka%20Timsina-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipsekatimsina/)
 [![Email](https://img.shields.io/badge/Email-dipsekatimsina75@gmail.com-D44638?style=flat&logo=gmail&logoColor=white)](mailto:dipsekatimsina75@gmail.com)
