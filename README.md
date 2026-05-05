@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/dipseka_final.gif" width="320"/>
+<img src="assets/analyst-founder%20.gif" width="320"/>
 
 <br>
 
