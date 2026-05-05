@@ -1,26 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:D2691E,100:B8860B&height=200&section=header&text=Dipseka%20Timsina&fontSize=48&fontColor=FFF8DC&fontAlignY=38&desc=researcher%20%C2%B7%20founder%20%C2%B7%20field%20scientist&descSize=15&descAlignY=58&descColor=F4A460" width="100%"/>
+<br>
 
-</div>
+# Dipseka Timsina
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1500&color=D2691E&center=true&vCenter=true&width=600&lines=noise+analyst+by+day%2C+founder+by+night;best+ideas+live+at+unexpected+intersections;built+things+in+forests%2C+oceans%2C+and+spreadsheets" alt="Typing SVG" />
 
 <br>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&pause=1000&color=D2691E&center=true&vCenter=true&width=600&lines=researcher+by+training%2C+founder+by+choice;best+ideas+live+at+unexpected+intersections;built+things+in+forests%2C+oceans%2C+and+code" alt="Typing SVG" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-I'm not a CS major. I'm an environmental scientist who got curious about everything else.
-
-I've done night SCUBA dives to film octopuses, modeled wildfires from a Montana classroom, analyzed forests with NASA satellite data, and built an AI startup for immigrant-owned grocery stores. I use GitHub to document the work, not perform it.
+`Pennsylvania` &nbsp;·&nbsp; `Bhutanese-Nepali` &nbsp;·&nbsp; `Vegan` &nbsp;·&nbsp; `Advanced SCUBA Certified`
 
 </div>
 
@@ -28,67 +16,101 @@ I've done night SCUBA dives to film octopuses, modeled wildfires from a Montana 
 
 <br>
 
-<div align="center">
+I'm not a CS major. I'm an environmental scientist who got curious about everything else. I've done night SCUBA dives to film octopuses, modeled wildfires in Montana, analyzed forests with R, and now I'm building software for communities that mainstream tech left behind.
 
-### work that meant something
-
-</div>
+I use GitHub to document the work, not perform it.
 
 <br>
 
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="12">
+---
+
+### currently building
+
+<table border="0" width="100%">
 <tr>
-<td align="center" width="220" style="background-color:#3d2b1f; border-radius:8px; padding:16px;">
-<strong><a href="https://github.com/dipsekatimsina-sarva/loblolly-biomass-spatial">🌲 Forest Biomass</a></strong><br>
-<sub>R · Dirichlet Regression · MSU REU 2024</sub>
+<td width="50%" valign="top">
+
+**Sarva**
+
+AI platform for immigrant-owned ethnic grocery stores. Voice-first, multilingual, built for the communities mainstream tech left behind.
+
+[sarva](https://github.com/dipsekatimsina-sarva)
+
 </td>
-<td width="20"></td>
-<td align="center" width="220">
-<strong><a href="https://github.com/dipsekatimsina-sarva/wildfire-spread-model">🔥 Wildfire Modeling</a></strong><br>
-<sub>NetLogo · Montana · Leadership Alliance 2023</sub>
-</td>
-</tr>
-<tr><td colspan="3" height="16"></td></tr>
-<tr>
-<td align="center" width="220">
-<strong><a href="https://github.com/dipsekatimsina-sarva/Callistoctopus-furvus-behavior-analysis">🐙 Octopus Behavior</a></strong><br>
-<sub>R · Night SCUBA · Turks & Caicos 2023</sub>
-</td>
-<td width="20"></td>
-<td align="center" width="220">
-<strong><a href="https://github.com/dipsekatimsina-sarva/nasa-sees-internship">🛸 NASA SEES</a></strong><br>
-<sub>Python · Earth Science · Summer 2020</sub>
+<td width="50%" valign="top">
+
+**BarelyFounders**
+
+A space for founders who are building before the revenue, before the traction, before anyone is watching.
+
+*in progress*
+
 </td>
 </tr>
 </table>
-</div>
 
-<br>
+---
+
+### research and work
+
+<table border="0" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[Loblolly Pine Biomass](https://github.com/dipsekatimsina-sarva/loblolly-biomass-spatial)**
+Spatial modeling of forest carbon across the southern U.S.
+`R` `Dirichlet Regression` `MSU REU 2024`
+
+</td>
+<td width="50%" valign="top">
+
+**[Wildfire Spread Model](https://github.com/dipsekatimsina-sarva/wildfire-spread-model)**
+Agent-based wildfire simulation across Montana landscapes.
+`NetLogo` `Montana` `2023`
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Octopus Behavior Analysis](https://github.com/dipsekatimsina-sarva/Callistoctopus-furvus-behavior-analysis)**
+Nocturnal field study in Turks & Caicos. Night dives required.
+`R` `SCUBA` `2023`
+
+</td>
+<td width="50%" valign="top">
+
+**[NASA SEES Internship](https://github.com/dipsekatimsina-sarva/nasa-sees-internship)**
+Earth science data analysis during a global pandemic.
+`Python` `NASA datasets` `2020`
+
+</td>
+</tr>
+</table>
+
+---
+
+### languages and tools
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipsekatimsina-sarva&layout=compact&theme=gruvbox&hide_border=true&title_color=D2691E&text_color=FFF8DC&bg_color=2d2417&langs_count=6)
+
+</div>
 
 ---
 
 <div align="center">
 
-### currently
-
-building **[Sarva](https://trysarva.com)** -- AI tools for immigrant-owned grocery stores
-because the communities I come from deserve better software
-
-</div>
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D2691E?style=for-the-badge&logo=linkedin&logoColor=FFF8DC)](https://www.linkedin.com/in/dipsekatimsina/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-8B4513?style=for-the-badge&logo=gmail&logoColor=FFF8DC)](mailto:dipsekatimsina75@gmail.com)
 
 <br>
 
-<div align="center">
+*building things that matter, one unexpected intersection at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-D2691E?style=for-the-badge&logo=linkedin&logoColor=FFF8DC)](https://www.linkedin.com/in/dipsekatimsina/)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/-Email-8B4513?style=for-the-badge&logo=gmail&logoColor=FFF8DC)](mailto:dipsekatimsina75@gmail.com)
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:D2691E,100:8B4513&height=120&section=footer" width="100%"/>
+<br>
 
 </div>
