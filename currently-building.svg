@@ -1,0 +1,172 @@
+<svg width="100%" viewBox="0 0 680 460" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Currently Building — Dipseka Timsina</title>
+<desc>A cluttered cork bulletin board showing current projects (Sarva, BarelyFounders), past achievements (gBETA PA, Pittsburgh Tech Week, UPPRIZE, LaunchU, Ascender, GFT), aspirations (NYC skyline), and a founder quote.</desc>
+
+<defs>
+<pattern id="cork" x="0" y="0" width="6" height="6" patternUnits="userSpaceOnUse">
+<rect width="6" height="6" fill="#3d2a18"/>
+<circle cx="1.5" cy="1.5" r="0.6" fill="#5a3e22" opacity="0.5"/>
+<circle cx="4" cy="3.5" r="0.5" fill="#2a1c0e" opacity="0.6"/>
+<circle cx="2.5" cy="4.5" r="0.4" fill="#6b4a2a" opacity="0.4"/>
+</pattern>
+<pattern id="lines" x="0" y="0" width="200" height="22" patternUnits="userSpaceOnUse">
+<line x1="0" y1="21" x2="200" y2="21" stroke="#000" stroke-width="0.4" opacity="0.12"/>
+</pattern>
+</defs>
+
+<rect x="20" y="20" width="640" height="420" rx="6" fill="#2a1810"/>
+<rect x="28" y="28" width="624" height="404" rx="3" fill="url(#cork)"/>
+
+<g transform="translate(440, 38) rotate(-4)">
+<rect x="0" y="0" width="220" height="62" fill="#f1e3c4" stroke="#8a7045" stroke-width="0.5"/>
+<rect x="85" y="-6" width="50" height="14" fill="#d4c590" opacity="0.7"/>
+<text x="110" y="22" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#3a2a14">"Move fast and have</text>
+<text x="110" y="36" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#3a2a14">things to show for it."</text>
+<text x="110" y="54" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#6b4a2a">— mark zuckerberg</text>
+</g>
+
+<g transform="translate(48, 52) rotate(-8)">
+<circle cx="22" cy="22" r="22" fill="#2d4a2a"/>
+<polygon points="22,8 12,22 17,22 13,32 19,32 15,40 29,40 25,32 31,32 27,22 32,22" fill="#7ba85f"/>
+<rect x="20" y="38" width="4" height="6" fill="#3d2818"/>
+</g>
+
+<g transform="translate(112, 44) rotate(-3)">
+<rect x="0" y="0" width="78" height="52" fill="#f4ead4" stroke="#8a7045" stroke-width="0.5"/>
+<text x="39" y="20" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="bold" fill="#3a2a14">LaunchU</text>
+<text x="39" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#5a3e22">cohort</text>
+<text x="39" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#5a3e22">2025</text>
+<circle cx="39" cy="4" r="2.5" fill="#7a1818"/>
+</g>
+
+<g transform="translate(206, 50) rotate(5)">
+<rect x="0" y="0" width="84" height="48" fill="#1a3a2a" stroke="#0a2010" stroke-width="0.5"/>
+<text x="42" y="20" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="bold" fill="#d4c590">ASCENDER</text>
+<text x="42" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#a89060">accelerator</text>
+<circle cx="42" cy="4" r="2.5" fill="#7a1818"/>
+</g>
+
+<g transform="translate(310, 38) rotate(-5)">
+<rect x="0" y="0" width="60" height="60" fill="#1a4060" stroke="#0a2030" stroke-width="0.5"/>
+<text x="30" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#f4ead4">GFT</text>
+<text x="30" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#a8b8c8">noise analyst</text>
+<circle cx="30" cy="4" r="2.5" fill="#d4c590"/>
+</g>
+
+<g transform="translate(390, 52) rotate(20)">
+<path d="M 0 18 Q 14 0 28 8 Q 22 22 0 18 Z" fill="#5a7a3a"/>
+<path d="M 4 17 Q 14 12 24 12" stroke="#2d3a1a" stroke-width="0.6" fill="none"/>
+</g>
+
+<g transform="translate(72, 138) rotate(-4)">
+<rect x="3" y="3" width="220" height="186" fill="#000" opacity="0.35"/>
+<rect x="0" y="0" width="220" height="186" fill="#c9a838"/>
+<rect x="0" y="0" width="220" height="186" fill="url(#lines)"/>
+<circle cx="110" cy="10" r="6" fill="#7a1818"/>
+<circle cx="108" cy="8" r="2" fill="#d44a4a"/>
+<rect x="14" y="22" width="56" height="18" rx="9" fill="#1a3a1a"/>
+<text x="42" y="35" text-anchor="middle" font-family="Georgia, serif" font-size="9" font-weight="bold" fill="#d4e8a8">ACTIVE</text>
+<text x="14" y="64" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2a1810">Sarva</text>
+<text x="14" y="86" font-family="Georgia, serif" font-size="11" fill="#3a2a14">AI-powered, multilingual</text>
+<text x="14" y="100" font-family="Georgia, serif" font-size="11" fill="#3a2a14">ordering + inventory</text>
+<text x="14" y="114" font-family="Georgia, serif" font-size="11" fill="#3a2a14">tools for underserved</text>
+<text x="14" y="128" font-family="Georgia, serif" font-size="11" fill="#3a2a14">grocery stores.</text>
+<line x1="14" y1="156" x2="206" y2="156" stroke="#7a5a28" stroke-width="0.5" opacity="0.5"/>
+<text x="14" y="172" font-family="Georgia, serif" font-size="9" font-style="italic" fill="#5a3e22">co-founder &amp; ceo · 2025–</text>
+<polygon points="220,186 200,186 220,166" fill="#a08828"/>
+</g>
+
+<g transform="translate(322, 146) rotate(3)">
+<rect x="3" y="3" width="220" height="186" fill="#000" opacity="0.35"/>
+<rect x="0" y="0" width="220" height="186" fill="#b85a28"/>
+<rect x="0" y="0" width="220" height="186" fill="url(#lines)"/>
+<circle cx="110" cy="10" r="6" fill="#3a1818"/>
+<circle cx="108" cy="8" r="2" fill="#7a3030"/>
+<rect x="14" y="22" width="80" height="18" rx="9" fill="#3a1a08"/>
+<text x="54" y="35" text-anchor="middle" font-family="Georgia, serif" font-size="9" font-weight="bold" fill="#f4d090">IN PROGRESS</text>
+<text x="14" y="64" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2a0a08">BarelyFounders</text>
+<text x="14" y="92" font-family="Georgia, serif" font-size="11" fill="#3a1408">for founders who took</text>
+<text x="14" y="108" font-family="Georgia, serif" font-size="11" fill="#3a1408">the leap and are figuring</text>
+<text x="14" y="124" font-family="Georgia, serif" font-size="11" fill="#3a1408">it out as they go.</text>
+<line x1="14" y1="156" x2="206" y2="156" stroke="#5a2818" stroke-width="0.5" opacity="0.5"/>
+<text x="14" y="172" font-family="Georgia, serif" font-size="9" font-style="italic" fill="#3a1408">founder · 2026–</text>
+<polygon points="220,186 200,186 220,166" fill="#984818"/>
+</g>
+
+<g transform="translate(280, 132) rotate(12)">
+<circle cx="22" cy="22" r="22" fill="#1a3a1a"/>
+<text x="22" y="32" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#d4c590">S</text>
+<text x="22" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="6" fill="#a89060">SARVA</text>
+</g>
+
+<g transform="translate(552, 178) rotate(-10)">
+<circle cx="34" cy="32" r="32" fill="#1a2438"/>
+<g transform="translate(8, 18)">
+<rect x="22" y="6" width="10" height="32" fill="#d4c590"/>
+<polygon points="22,6 27,0 32,6" fill="#d4c590"/>
+<rect x="26" y="-4" width="2" height="8" fill="#d4c590"/>
+<rect x="2" y="18" width="8" height="20" fill="#d4c590"/>
+<rect x="10" y="14" width="6" height="24" fill="#a89060"/>
+<rect x="16" y="20" width="6" height="18" fill="#d4c590"/>
+<rect x="32" y="12" width="7" height="26" fill="#a89060"/>
+<rect x="39" y="18" width="6" height="20" fill="#d4c590"/>
+<rect x="45" y="22" width="7" height="16" fill="#a89060"/>
+</g>
+<polygon points="34,8 35,11 38,11 35.5,13 36.5,16 34,14 31.5,16 32.5,13 30,11 33,11" fill="#e8b820"/>
+</g>
+
+<g transform="translate(566, 252) rotate(8)">
+<circle cx="22" cy="22" r="22" fill="#1a4060"/>
+<path d="M 4 22 Q 12 16 20 22 T 36 22" stroke="#a8d0e8" stroke-width="2" fill="none"/>
+<path d="M 4 28 Q 12 22 20 28 T 36 28" stroke="#a8d0e8" stroke-width="2" fill="none"/>
+<path d="M 4 16 Q 12 10 20 16 T 36 16" stroke="#a8d0e8" stroke-width="1.5" fill="none" opacity="0.7"/>
+</g>
+
+<g transform="translate(580, 320) rotate(15)">
+<circle cx="20" cy="20" r="20" fill="#2d4a2a"/>
+<polygon points="20,8 12,20 16,20 12,28 17,28 13,36 27,36 23,28 28,28 24,20 28,20" fill="#7ba85f"/>
+<rect x="18" y="34" width="4" height="6" fill="#3d2818"/>
+</g>
+
+<g transform="translate(48, 348) rotate(-6)">
+<rect x="0" y="0" width="118" height="80" fill="#f4ead4" stroke="#8a7045" stroke-width="0.5"/>
+<rect x="6" y="6" width="106" height="50" fill="#0a1a3a"/>
+<text x="59" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#e8b820">gBETA PA</text>
+<text x="59" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#d4c590">w/ Meta · gener8tor</text>
+<text x="59" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#3a2a14">selected · 2026 cohort</text>
+<rect x="48" y="-4" width="22" height="10" fill="#d4c590" opacity="0.6"/>
+<g transform="translate(94, -8) rotate(15)">
+<rect x="0" y="0" width="32" height="14" fill="#c0301a" stroke="#5a1408" stroke-width="0.5"/>
+<text x="16" y="10" text-anchor="middle" font-family="Georgia, serif" font-size="9" font-weight="bold" fill="#fff4d4">NEW!</text>
+</g>
+</g>
+
+<g transform="translate(184, 358) rotate(4)">
+<rect x="0" y="0" width="118" height="80" fill="#f4ead4" stroke="#8a7045" stroke-width="0.5"/>
+<rect x="6" y="6" width="106" height="50" fill="#1a3050"/>
+<text x="59" y="32" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#e8b820">$10K</text>
+<text x="59" y="46" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#d4c590">finalist</text>
+<text x="59" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#3a2a14">Pittsburgh Tech Week</text>
+<rect x="48" y="-4" width="22" height="10" fill="#d4c590" opacity="0.6"/>
+</g>
+
+<g transform="translate(316, 372) rotate(-12)">
+<polygon points="14,4 4,18 8,18 4,28 10,28 6,36 22,36 18,28 24,28 20,18 24,18" fill="#5a7a3a"/>
+<rect x="12" y="34" width="4" height="6" fill="#3d2818"/>
+</g>
+
+<g transform="translate(354, 380) rotate(45)">
+<path d="M 0 14 Q 12 0 22 6 Q 18 18 0 14 Z" fill="#7ba85f"/>
+<path d="M 3 13 Q 11 9 19 9" stroke="#2d3a1a" stroke-width="0.5" fill="none"/>
+</g>
+
+<g transform="translate(396, 360) rotate(-3)">
+<rect x="0" y="0" width="118" height="80" fill="#f4ead4" stroke="#8a7045" stroke-width="0.5"/>
+<rect x="6" y="6" width="106" height="50" fill="#0a2438"/>
+<text x="59" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="bold" fill="#3aa0c8">UPPRIZE</text>
+<text x="59" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#d4c590">BNY social innovation</text>
+<text x="59" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#3a2a14">early-stage semifinalist</text>
+<rect x="48" y="-4" width="22" height="10" fill="#d4c590" opacity="0.6"/>
+</g>
+
+</svg>
