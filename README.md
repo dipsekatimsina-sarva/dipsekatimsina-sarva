@@ -47,43 +47,7 @@ A space for founders who are building before the revenue, before the traction, b
 
 ---
 
-### research and work
-
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**[Loblolly Pine Biomass](https://github.com/dipsekatimsina-sarva/loblolly-biomass-spatial)**
-Spatial modeling of forest carbon across the southern U.S.
-`R` `Dirichlet Regression` `MSU REU 2024`
-
-</td>
-<td width="50%" valign="top">
-
-**[Wildfire Spread Model](https://github.com/dipsekatimsina-sarva/wildfire-spread-model)**
-Agent-based wildfire simulation across Montana landscapes.
-`NetLogo` `Montana` `2023`
-
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Octopus Behavior Analysis](https://github.com/dipsekatimsina-sarva/Callistoctopus-furvus-behavior-analysis)**
-Nocturnal field study in Turks & Caicos. Night dives required.
-`R` `SCUBA` `2023`
-
-</td>
-<td width="50%" valign="top">
-
-**[NASA SEES Internship](https://github.com/dipsekatimsina-sarva/nasa-sees-internship)**
-Earth science data analysis during a global pandemic.
-`Python` `NASA datasets` `2020`
-
-</td>
-</tr>
-</table>
+[![Field Research Journal](https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/research-journal-preview.svg)](https://dipsekatimsina-sarva.github.io/research-journal/)
 
 ---
 
