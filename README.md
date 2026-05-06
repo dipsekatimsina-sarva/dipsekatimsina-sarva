@@ -24,27 +24,7 @@ I use GitHub to document the work, not perform it.
 
 ### currently building
 
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**[Sarva](https://github.com/dipsekatimsina-sarva)**
-
-AI platform for immigrant-owned ethnic grocery stores. Voice-first, multilingual, built for the communities mainstream tech left behind.
-
-</td>
-<td width="50%" valign="top">
-
-**BarelyFounders**
-
-A space for founders who are building before the revenue, before the traction, before anyone is watching.
-
-*in progress*
-
-</td>
-</tr>
-</table>
-
+![Currently Building](https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/currently-building.svg)
 ---
 
 [![Field Research Journal](https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/research-journal-preview.svg)](https://dipsekatimsina-sarva.github.io/research-journal/)
