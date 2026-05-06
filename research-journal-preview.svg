@@ -1,0 +1,88 @@
+<svg width="100%" viewBox="0 0 680 540" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Field research journal — Dipseka Timsina</title>
+<desc>Four research experiences as journal chapters: NASA SEES (2020), Wildfire Spread Model (2023), Octopus Behavior Analysis (2023), and Loblolly Pine Biomass (2024).</desc>
+<style>
+.hdr{font-family:Georgia,serif;font-size:12px;fill:#B5451B;letter-spacing:3px;}
+.hdr-s{font-family:Georgia,serif;font-size:10px;fill:#5C3A1A;letter-spacing:1.5px;}
+.cn{font-family:Georgia,serif;font-size:10px;fill:#B5451B;letter-spacing:2px;}
+.cd{font-family:Georgia,serif;font-size:10px;fill:#7A5430;}
+.ct{font-family:Georgia,serif;font-size:14px;font-weight:bold;fill:#1A0A00;}
+.cc{font-family:Georgia,serif;font-size:11px;fill:#2D1A08;}
+.ci{font-family:Georgia,serif;font-size:10px;fill:#6B4E2A;font-style:italic;}
+.cta{font-family:Georgia,serif;font-size:11px;fill:#B5451B;letter-spacing:1px;}
+</style>
+
+<!-- Header -->
+<line x1="40" y1="28" x2="640" y2="28" stroke="#1E2E1A" stroke-width="0.5"/>
+<text x="340" y="50" text-anchor="middle" class="hdr">Field research journal</text>
+<text x="340" y="67" text-anchor="middle" class="hdr-s">Dipseka Timsina  ·  2020 – 2024</text>
+<line x1="40" y1="77" x2="640" y2="77" stroke="#1E2E1A" stroke-width="0.5"/>
+
+<!-- CARD 1: NASA SEES — x=40, y=95, w=280, h=190 -->
+<rect x="40" y="95" width="280" height="190" fill="#DDD0A8" stroke="#8B7040" stroke-width="0.5" rx="2"/>
+<rect x="40" y="133" width="3" height="44" fill="#3A5433"/>
+<text x="58" y="117" class="cn">Chapter I</text>
+<text x="305" y="117" text-anchor="end" class="cd">Summer 2020</text>
+<line x1="58" y1="124" x2="305" y2="124" stroke="#8B7040" stroke-width="0.5"/>
+<text x="58" y="150" class="ct">NASA SEES Internship</text>
+<text x="58" y="169" class="cc">Earth science data analysis</text>
+<line x1="58" y1="173" x2="305" y2="173" stroke="rgba(90,68,28,0.25)" stroke-width="0.5"/>
+<text x="58" y="184" class="cc">with NASA satellite datasets</text>
+<line x1="58" y1="188" x2="305" y2="188" stroke="rgba(90,68,28,0.25)" stroke-width="0.5"/>
+<text x="58" y="199" class="ci">Univ. of Texas at Austin · NASA</text>
+<line x1="58" y1="204" x2="305" y2="204" stroke="rgba(90,68,28,0.25)" stroke-width="0.5"/>
+<text x="58" y="253" class="cn">→ view research</text>
+<line x1="58" y1="257" x2="152" y2="257" stroke="#B5451B" stroke-width="0.5"/>
+
+<!-- CARD 2: Wildfire — x=360, y=95, w=280, h=190 -->
+<rect x="360" y="95" width="280" height="190" fill="#DDD0A8" stroke="#8B7040" stroke-width="0.5" rx="2"/>
+<rect x="360" y="133" width="3" height="44" fill="#3A5433"/>
+<text x="378" y="117" class="cn">Chapter II</text>
+<text x="625" y="117" text-anchor="end" class="cd">Summer 2023</text>
+<line x1="378" y1="124" x2="625" y2="124" stroke="#8B7040" stroke-width="0.5"/>
+<text x="378" y="150" class="ct">Wildfire Spread Model</text>
+<text x="378" y="169" class="cc">Agent-based simulation of</text>
+<line x1="378" y1="173" x2="625" y2="173" stroke="rgba(90,68,28,0.25)" stroke-width="0.5"/>
+<text x="378" y="184" class="cc">wildfire spread across Montana</text>
+<line x1="378" y1="188" x2="625" y2="188" stroke="rgba(90,68,28,0.25)" stroke-width="0.5"/>
+<text x="378" y="199" class="ci">Montana State Univ. · SR-EIP</text>
+<line x1="378" y1="204" x2="625" y2="204" stroke="rgba(90,68,28,0.25)" stroke-width="0.5"/>
+<text x="378" y="253" class="cn">→ view research</text>
+<line x1="378" y1="257" x2="472" y2="257" stroke="#B5451B" stroke-width="0.5"/>
+
+<!-- CARD 3: Octopus — x=40, y=305, w=280, h=190 -->
+<rect x="40" y="305" width="280" height="190" fill="#DDD0A8" stroke="#8B7040" stroke-width="0.5" rx="2"/>
+<rect x="40" y="343" width="3" height="44" fill="#3A5433"/>
+<text x="58" y="327" class="cn">Chapter III</text>
+<text x="305" y="327" text-anchor="end" class="cd">Fall 2023</text>
+<line x1="58" y1="334" x2="305" y2="334" stroke="#8B7040" stroke-width="0.5"/>
+<text x="58" y="360" class="ct">Octopus Behavior Analysis</text>
+<text x="58" y="379" class="cc">Nocturnal field study of</text>
+<line x1="58" y1="383" x2="305" y2="383" stroke="rgba(90,68,28,0.25)" stroke-width="0.5"/>
+<text x="58" y="394" class="cc">skin patterning in C. furvus</text>
+<line x1="58" y1="398" x2="305" y2="398" stroke="rgba(90,68,28,0.25)" stroke-width="0.5"/>
+<text x="58" y="409" class="ci">School for Field Studies, T&amp;C</text>
+<line x1="58" y1="414" x2="305" y2="414" stroke="rgba(90,68,28,0.25)" stroke-width="0.5"/>
+<text x="58" y="463" class="cn">→ view research</text>
+<line x1="58" y1="467" x2="152" y2="467" stroke="#B5451B" stroke-width="0.5"/>
+
+<!-- CARD 4: Loblolly — x=360, y=305, w=280, h=190 -->
+<rect x="360" y="305" width="280" height="190" fill="#DDD0A8" stroke="#8B7040" stroke-width="0.5" rx="2"/>
+<rect x="360" y="343" width="3" height="44" fill="#3A5433"/>
+<text x="378" y="327" class="cn">Chapter IV</text>
+<text x="625" y="327" text-anchor="end" class="cd">Summer 2024</text>
+<line x1="378" y1="334" x2="625" y2="334" stroke="#8B7040" stroke-width="0.5"/>
+<text x="378" y="360" class="ct">Loblolly Pine Biomass</text>
+<text x="378" y="379" class="cc">Spatial modeling of biomass</text>
+<line x1="378" y1="383" x2="625" y2="383" stroke="rgba(90,68,28,0.25)" stroke-width="0.5"/>
+<text x="378" y="394" class="cc">distribution across U.S. South</text>
+<line x1="378" y1="398" x2="625" y2="398" stroke="rgba(90,68,28,0.25)" stroke-width="0.5"/>
+<text x="378" y="409" class="ci">Mississippi State Univ. · REU</text>
+<line x1="378" y1="414" x2="625" y2="414" stroke="rgba(90,68,28,0.25)" stroke-width="0.5"/>
+<text x="378" y="463" class="cn">→ view research</text>
+<line x1="378" y1="467" x2="472" y2="467" stroke="#B5451B" stroke-width="0.5"/>
+
+<!-- CTA footer -->
+<line x1="40" y1="500" x2="640" y2="500" stroke="#1E2E1A" stroke-width="0.5"/>
+<text x="340" y="522" text-anchor="middle" class="cta">click to open the interactive journal →</text>
+</svg>
