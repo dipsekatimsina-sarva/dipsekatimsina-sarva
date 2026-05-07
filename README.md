@@ -40,14 +40,22 @@ I use GitHub to document the work, not perform it.
 ---
 
 <div align="center">
-![Growing slowly](https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/growing-roots.svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D2691E?style=for-the-badge&logo=linkedin&logoColor=FFF8DC)](https://www.linkedin.com/in/dipsekatimsina/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-8B4513?style=for-the-badge&logo=gmail&logoColor=FFF8DC)](mailto:dipsekatimsina75@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/linkedin-stamp.svg" alt="LinkedIn" width="200"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/email-stamp.svg" alt="Email" width="200"/>
+  </a>
+</p>
 
 <br>
 
 *building things that matter, one unexpected intersection at a time.*
 
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/growing-roots.svg" alt="growing slowly" width="100%"/>
+</p>
