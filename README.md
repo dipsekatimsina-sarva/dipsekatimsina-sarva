@@ -40,6 +40,7 @@ I use GitHub to document the work, not perform it.
 ---
 
 <div align="center">
+![Growing slowly](https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/growing-roots.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D2691E?style=for-the-badge&logo=linkedin&logoColor=FFF8DC)](https://www.linkedin.com/in/dipsekatimsina/)
 &nbsp;
