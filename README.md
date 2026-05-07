@@ -31,13 +31,6 @@ I use GitHub to document the work, not perform it.
 
 ---
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipsekatimsina-sarva&layout=compact&theme=gruvbox&hide_border=true&title_color=D2691E&text_color=FFF8DC&bg_color=2d2417&langs_count=6)
-
-</div>
-
----
 
 <div align="center">
 
