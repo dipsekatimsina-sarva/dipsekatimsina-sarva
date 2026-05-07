@@ -1,0 +1,12 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>LinkedIn — let's connect</title>
+<desc>Postmark-style LinkedIn contact stamp.</desc>
+<g transform="translate(15, 10) rotate(-3)">
+<rect x="0" y="0" width="170" height="60" fill="#c9542a"/>
+<rect x="0" y="0" width="170" height="60" fill="none" stroke="#3a1a08" stroke-width="1" stroke-dasharray="3,2"/>
+<rect x="14" y="14" width="32" height="32" rx="3" fill="#f4ead4"/>
+<text x="30" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#c9542a">in</text>
+<text x="60" y="30" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#fff4d4">LinkedIn</text>
+<text x="60" y="46" font-family="Georgia, serif" font-size="10" fill="#fff4d4" font-style="italic" opacity="0.85">let's connect →</text>
+</g>
+</svg>
