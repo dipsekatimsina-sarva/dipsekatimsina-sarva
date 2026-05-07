@@ -42,11 +42,12 @@ I use GitHub to document the work, not perform it.
 <div align="center">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/linkedin-stamp.svg" alt="LinkedIn" width="200"/>
+  <a href="https://www.linkedin.com/in/dipsekatimsina/">
+    <img src="https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/linkedin-stamp.svg" alt="LinkedIn" width="240"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/email-stamp.svg" alt="Email" width="200"/>
+  &nbsp;&nbsp;
+  <a href="mailto: dipsekatimsina75@gmail.com">
+    <img src="https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/email-stamp.svg" alt="Email" width="240"/>
   </a>
 </p>
 
