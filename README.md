@@ -24,10 +24,10 @@ I use GitHub to document the work, not perform it.
 
 ### currently building
 
-![Currently Building](https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/currently-building.svg)
+![Currently Building](https://raw.githubusercontent.com/dipsekatimsina/dipsekatimsina/main/currently-building.svg)
 ---
 
-[![Field Research Journal](https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/research-journal-preview.svg)](https://dipsekatimsina-sarva.github.io/research-journal/)
+[![Field Research Journal](https://raw.githubusercontent.com/dipsekatimsina/dipsekatimsina/main/research-journal-preview.svg)](https://dipsekatimsina.github.io/research-journal/)
 
 ---
 
@@ -36,11 +36,11 @@ I use GitHub to document the work, not perform it.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dipsekatimsina/">
-    <img src="https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/linkedin-stamp.svg" alt="LinkedIn" width="240"/>
+    <img src="https://raw.githubusercontent.com/dipsekatimsina/dipsekatimsina/main/linkedin-stamp.svg" alt="LinkedIn" width="240"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto: dipsekatimsina75@gmail.com">
-    <img src="https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/email-stamp.svg" alt="Email" width="240"/>
+    <img src="https://raw.githubusercontent.com/dipsekatimsina/dipsekatimsina/main/email-stamp.svg" alt="Email" width="240"/>
   </a>
 </p>
 
@@ -51,5 +51,5 @@ I use GitHub to document the work, not perform it.
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dipsekatimsina-sarva/dipsekatimsina-sarva/main/growing-roots.svg" alt="growing slowly" width="100%"/>
+  <img src="https://raw.githubusercontent.com/dipsekatimsina/dipsekatimsina/main/growing-roots.svg" alt="growing slowly" width="100%"/>
 </p>
